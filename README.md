@@ -6,4 +6,4 @@ The python files inside the SRC folder are separated depending on their usage. \
 The first one creates the Class used for the Database, \
 The second one creates the Database, \
 The third one inserts data in the Database,\
-The final one is a simple Graphic User Interface which accompanies the Database\
+The final one is a simple Graphic User Interface which accompanies the Database
