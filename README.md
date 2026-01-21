@@ -2,7 +2,7 @@
 This Code accompanies the project for "Database" Course, which took place in Electrical and Computer Engineering School at University of Patras in 2022
 
 ## Code File Descreption
-The python files are separated depending on their usage. \
+The python files inside the SRC are separated depending on their usage. \
 The first one creates the Class used for the Database, \
 The second one creates the Database, \
 The third one inserts data in the Database,\
